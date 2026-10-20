@@ -2,9 +2,9 @@
 
 Repositorio con la resolución de los cinco ejercicios de la **Guía APE**, desarrollados en Java aplicando los conceptos vistos en las tres sesiones de la asignatura: clases, atributos, constructores, instancias, arreglos, condicionales, ciclos y referencias a objetos.
 
-> **Autor:** _Tu nombre aquí_
-> **Asignatura:** Introducción a la Programación Orientada a Objetos
-> **Docente:** _Nombre del docente_
+> **Autor:** Matias Pico
+> **Asignatura:** ALGORITMOS Y LOGICA DE PROGRAMACION
+> **Docente:** Rubén Caiza
 
 ---
 
