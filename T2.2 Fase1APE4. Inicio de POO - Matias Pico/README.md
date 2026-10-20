@@ -130,7 +130,3 @@ Se cambia el número del archivo para ejecutar cada ejercicio (`Ejercicio2`, `Ej
 
 ---
 
-## Notas
-
-- Los textos impresos no llevan tildes ni ñ (por ejemplo, "Cien anos de soledad") para evitar problemas de codificación en consolas con configuración regional distinta.
-- Los promedios se muestran con dos decimales usando `Locale.US` para que el separador decimal sea siempre un punto.
