@@ -7,12 +7,8 @@ Repositorio que contiene la resolución de los ejercicios prácticos correspondi
 * **Carrera:** Ingeniería en Software
 * **Asignatura:** Algoritmos y Lógica de Programación
 * **Nivel / Paralelo:** Primer Semestre — Paralelo B
-* **Grupo N° 3:**
-  * Adrián Andaluz
-  * Ariel Chanatasig
-  * Paulo Escobar
-  * Mateo Salazar
-
+* **Nombre: Matias Alejandro Pico Cepeda**
+  
 ---
 
 ## 🎯 Objetivos
