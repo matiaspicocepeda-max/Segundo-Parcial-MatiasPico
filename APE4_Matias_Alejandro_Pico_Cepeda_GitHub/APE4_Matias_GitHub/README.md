@@ -5,7 +5,7 @@
 **Carrera:** Ingeniería en Software
 
 ## Estructura
-El proyecto contiene 18 carpetas independientes (`Ejercicio01` a `Ejercicio18`). Cada carpeta incluye todos los `.java` necesarios para compilar y ejecutar ese ejercicio. Los nombres de ejercicios son consecutivos, sin etiquetas A/B/C.
+El proyecto contiene 18 carpetas independientes (`Ejercicio01` a `Ejercicio18`). Cada carpeta incluye todos los `.java` necesarios para compilar y ejecutar ese ejercicio.
 
 ## Ejecutar un ejercicio
 Abre una terminal dentro de la carpeta del ejercicio y ejecuta:
@@ -37,4 +37,3 @@ En el Ejercicio 2, la clase `Main` llama a `Bienvenida`. Los ejercicios que requ
 17. Cuenta de ahorro
 18. Biblioteca y socios
 
-Los programas siguen los enunciados y ejemplos del documento guía de referencia. El Ejercicio 1 contiene la versión corregida y compilable del método con retorno `int`; la versión con error se deja explicada en un comentario, ya que no puede formar parte de un proyecto compilable.
