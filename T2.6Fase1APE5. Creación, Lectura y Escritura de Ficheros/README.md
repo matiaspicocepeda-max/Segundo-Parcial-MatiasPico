@@ -7,8 +7,6 @@
 **Docente:** Ing. José Rubén Caiza Caizabuano  
 **Estudiante:** Matías Pico  
 **Fecha de entrega:** 05/11/2026 / 06/11/2026  
-**Enlace del Repositorio GitHub:** [Segundo Parcial - APE 5](https://github.com/matiaspicocepeda-max/Segundo-Parcial-Matias-Pico/tree/main/T2.6Fase1APE5.%20Creaci%C3%B3n%2C%20Lectura%20y%20Escritura%20de%20Ficheros/Primera%20Parte)
-
 ---
 
 ## 📌 Descripción de la Práctica (APE 5)
